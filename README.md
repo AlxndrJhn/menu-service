@@ -1,5 +1,3 @@
 # menu-service
 
-# Items
-
-# Sections
+# Items & Sections
